@@ -11,3 +11,7 @@ dtypes: float64(6), object(134)
 This data needs few data cleaning process before diving into analysis.
 
 ### Source: (https://www.kaggle.com/datasets/bhanupratapbiswas/indian-cars-data-analysis-and-visualization)
+
+My POV:
+
+1. The dependent columns are Ex-Showroon price, City Mileage, Highway Mileage, ARAI certified mileage, 
